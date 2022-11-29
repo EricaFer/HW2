@@ -18,7 +18,7 @@
 margin: 0;
 padding: 0;
 background: White;
-color: DarkSlateGrey;
+color: #055A9C;
 font-family: Tahoma, Verdana, sans-serif;
 font-size: 10pt;
 }
@@ -28,24 +28,22 @@ padding: 0 20px 20px;
 }
 a {
 background: transparent;
-color: maroon;
-text-decoration: underline;
+color: #055A9C;
 font-weight: bold;
 }
 h1 {
-color: maroon;
+color: #055A9C;
 font-size: 150%;
-font-style: italic;
 display: block;
 width: 100%;
-border-bottom: 1px solid DarkSlateGrey;
+border-bottom: 0px;
 }
 h1.title {
 margin: 0 0 1em;
 padding: 10px;
-background-color: orange;
+background-color: #307688;
 color: white;
-border-bottom: 4px solid gold;
+border-bottom: 4px solid #10a8a8;
 font-size: 2em;
 font-style: normal;
 }
@@ -58,7 +56,7 @@ border-bottom: 2px solid black;
 table#movies th {
 border: 2px solid white;
 font-weight: bold;
-background-color: wheat;
+background-color: #CFE9FE;
 }
 table#movies th, table#movies td {
 padding: 4px;
@@ -73,8 +71,8 @@ form label {
 display: block;
 line-height: 25px;
 font-weight: bold;
-color: maroon;
+color: #055A9C;
 }
 table#movies th.hilite{
- background-color: yellow;
+ background-color: #6FBEFB;
 }
